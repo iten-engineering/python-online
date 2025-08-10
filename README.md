@@ -9,7 +9,7 @@ This course can be executed on a online Jupyter environment like Google Colab or
 - [Handout](handout)
 - [Labs](doc/lab.md) 
 - [Solutions](solution)
-- [External material]
+- External material
   - <a href="https://github.com/iten-engineering/python/tree/main/example"      target="_blank">Examples</a>
   - <a href="https://github.com/iten-engineering/python/blob/main/doc/dev.md"   target="_blank">Package Manager</a>
   - <a href="https://github.com/iten-engineering/python/blob/main/doc/refs.md"  target="_blank">References</a>
