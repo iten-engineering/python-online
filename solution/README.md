@@ -36,13 +36,14 @@ wie [Google Colab](https://colab.google/) oder  [JupiterLite](https://jupyter.or
 - <a href="https://github.com/iten-engineering/python/blob/main/doc/dev.md"               target="_blank">Package Manager</a>
 - <a href="https://github.com/iten-engineering/python/blob/main/doc/refs.md"              target="_blank">References</a>
 
+
 ## [Python Trainings](https://www.iten-engineering.ch/course)
-- <a href="https://www.iten-engineering.ch/course/python-intro"           target="_blank">Python Einführung</a>
-- <a href="https://www.iten-engineering.ch/course/python-oo"              target="_blank">Python OO</a>
-- <a href="https://www.iten-engineering.ch/course/python-design-pattern"  target="_blank">Python Desing Pattern</a>
-- <a href="https://www.iten-engineering.ch/course/python-advanced"        target="_blank">Python Advanced</a>
-- <a href="https://www.iten-engineering.ch/course/python-threading"       target="_blank">Python Threading</a>
-- <a href="https://www.iten-engineering.ch/course/python-specific"        target="_blank">Python Spezialkurse</a>
+- <a href="https://www.iten-engineering.ch/course/python-intro.html"           target="_blank">Python Einführung</a>
+- <a href="https://www.iten-engineering.ch/course/python-oo.html"              target="_blank">Python OO</a>
+- <a href="https://www.iten-engineering.ch/course/python-design-pattern.html"  target="_blank">Python Desing Pattern</a>
+- <a href="https://www.iten-engineering.ch/course/python-advanced.html"        target="_blank">Python Advanced</a>
+- <a href="https://www.iten-engineering.ch/course/python-threading.html"       target="_blank">Python Threading</a>
+- <a href="https://www.iten-engineering.ch/course/python-specialized.html"     target="_blank">Python Spezialkurse</a>
 
 
 ---
